@@ -15,7 +15,7 @@ To install potentially offensive fortunes, set `OFFENSIVE=1` as a make parameter
 ## Rules for submission/PR's
 
 It looks like a lot, but it isn't. It's mostly common sense. We'll accept
-anything that follows the rules.
+anything that follows the rules, mostly, but it's ultimately at our discretion.
 
 1. You may submit a PR or issue request to add quotes, or poke a maintainer
 directly.
@@ -28,6 +28,8 @@ proof they are okay with this
 6. Fortunes must fit within 80 columns and follow the existing format
 7. Don't just ask me to add stuff to smear people. Add witty and funny stuff,
 not humiliating stuff.
+8. Nothing should go here that wouldn't be acceptable on mastodon.social or
+such. Use common sense.
 
 ## Fortune format
 The format of fortune files is simple: each fortune is separated with a %.
