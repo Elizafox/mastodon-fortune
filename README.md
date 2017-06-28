@@ -31,10 +31,11 @@ directly.
 fit; put non-English in a `mastodon-[lang code]-*` category.
 4. Don't put non-public posts in without permission of the author, and
 proof they are okay with this
-5. Public posts should have attribution
+5. Public posts should have attribution, unless the author requests otherwise;
+if the author doesn't want the quote added, respect their wishes
 6. Fortunes must fit within 80 columns and follow the existing format
-7. Don't just ask me to add stuff to smear people. Add witty and funny stuff,
-not humiliating stuff.
+7. Don't just ask us to add stuff to smear people; add witty, insightful, and
+funny stuff, not humiliating stuff
 8. Nothing should go here that wouldn't be acceptable on mastodon.social or
 such. Use common sense.
 
