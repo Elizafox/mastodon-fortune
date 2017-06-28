@@ -1,6 +1,7 @@
 # Mastodon Fortune file
 
-This is a collection of random funny quotes from Mastodon.
+This is a collection of random funny quotes from Mastodon for use with the Unix
+fortune program.
 
 ## Installation
 Adjust variables within for your fortune installation, then do:
