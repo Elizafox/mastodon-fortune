@@ -24,7 +24,7 @@ anything that follows the rules, mostly, but it's ultimately at our discretion.
 directly.
 2. You must categorise things as offensive appropriately
 3. Use an existing category if possible, or make a new one if it doesn't quite
-fit
+fit; put non-English in a `mastodon-[lang code]-*` category.
 4. Don't put non-public posts in without permission of the author, and
 proof they are okay with this
 5. Public posts should have attribution
