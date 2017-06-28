@@ -6,9 +6,11 @@ fortune program.
 ## Installation
 Adjust variables within for your fortune installation, then do:
 
-make && sudo make install
+`make && sudo make install`
 
-To install potentially offensive fortunes, set OFFENSIVE=1.
+(**NOTE**: the BSD's need gmake here, sorry!)
+
+To install potentially offensive fortunes, set `OFFENSIVE=1` as a make parameter.
 
 ## Rules for submission/PR's
 
