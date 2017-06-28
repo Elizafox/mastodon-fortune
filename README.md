@@ -6,6 +6,12 @@ fortune program.
 None of this is official stuff, but you probably knew that if you knew anything
 about Mastodon.
 
+## Requirements
+This program requires:
+
+* The fortune package to be installed (as well as `strfile` which comes with it)
+* The `rot13` utility, often comes with the bsdgames package
+
 ## Installation
 Adjust variables within for your fortune installation, then do:
 
