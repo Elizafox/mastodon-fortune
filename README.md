@@ -3,6 +3,9 @@
 This is a collection of random funny quotes from Mastodon for use with the Unix
 fortune program.
 
+None of this is official stuff, but you probably knew that if you knew anything
+about Mastodon.
+
 ## Installation
 Adjust variables within for your fortune installation, then do:
 
