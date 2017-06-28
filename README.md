@@ -12,7 +12,8 @@ To install potentially offensive fortunes, set OFFENSIVE=1.
 
 ## Rules for submission/PR's
 
-It looks like a lot, but it isn't. It's mostly common sense.
+It looks like a lot, but it isn't. It's mostly common sense. We'll accept
+anything that follows the rules.
 
 1. You may submit a PR or issue request to add quotes, or poke a maintainer
 directly.
