@@ -1,7 +1,7 @@
 # Blah
 
-FORTUNES       := $(wildcard unrotated/*)
-FORTUNES_ROT13 := $(subst unrotated/,,$(addprefix gen/,$(FORTUNES)))
+FORTUNES       := $(filter-out gen Makefile,$(wildcard *))
+FORTUNES_ROT13 := $(addprefix gen/,$(FORTUNES))
 DAT            := $(addsuffix .dat,$(FORTUNES_ROT13))
 
 STRFILE  ?= /usr/bin/strfile
