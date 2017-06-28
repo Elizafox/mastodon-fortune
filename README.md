@@ -1,5 +1,4 @@
 # Mastodon Fortune file
-
 This is a collection of random funny quotes from Mastodon for use with the Unix
 fortune program.
 
@@ -22,7 +21,6 @@ Adjust variables within for your fortune installation, then do:
 To install potentially offensive fortunes, set `OFFENSIVE=1` as a make parameter.
 
 ## Rules for submission/PR's
-
 It looks like a lot, but it isn't. It's mostly common sense. We'll accept
 anything that follows the rules, mostly, but it's ultimately at our discretion.
 
@@ -43,6 +41,16 @@ such. Use common sense.
 ## Fortune format
 The format of fortune files is simple: each fortune is separated with a %.
 That's it.
+
+Offensive fortunes go in the `fortunes/off` dir.
+
+### Technical details
+Fortune uses a program known as `strfile` to compile fortune files for
+efficient random access of strings. This requires both a .dat strfile
+file, and the original.
+
+Offensive fortunes are rot13'd (also known as the Caesar cipher) to avoid
+casual inspection without the `-o` flag to the `fortune` program.
 
 ## Copyright
 The posts are copyright of their respective authors. This stuff is believed to
